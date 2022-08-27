@@ -143,20 +143,20 @@ justify-content: center;
 
 
 #proj-card-1{
-    background-image: url(./img/net-scanner.png);
+    background-image: url('/img/net-scanner.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #proj-card-2{
-    background-image: url(./img/portfolio.png);
+    background-image: url('/img/portfolio.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #proj-card-3{
-    background-image: url(./img/social.png);
+    background-image: url('./img/social.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
